@@ -1,0 +1,1 @@
+This example contains all the files you need to use the data functionality in Hugo. For this example I created a list of movies I watched. Add these files to your Hugo install, and you will have a nice list at yourwebsite.com/movies
